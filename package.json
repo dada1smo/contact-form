@@ -9,12 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/nodemailer": "^6.4.4",
+    "dotenv": "^16.0.1",
+    "googleapis": "^105.0.0",
     "next": "12.2.2",
+    "nodemailer": "^6.7.7",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.33.1"
   },
   "devDependencies": {
+    "@types/node": "18.0.6",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
     "eslint": "8.20.0",
-    "eslint-config-next": "12.2.2"
+    "eslint-config-next": "12.2.2",
+    "typescript": "4.7.4"
   }
 }
